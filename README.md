@@ -61,6 +61,8 @@ The settings page has following attributes The user can add there profile pictur
 
 The room page has 3 main sections they are 
 **1. AI Response** - The AI response section contains the text box allows the user to talk with the ai 
+
+
 **2. Message Window**- The message window allows the user to send messages and the messages section diplays the host and the room description.
 
 The message windows will also allows the user to edit the details of the Room or delete the room 
