@@ -213,18 +213,6 @@ The admin page allows the superuser to create all the avaialble data models and 
 
 
 
-
-# Video Content
-
-## Embedded Video
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
-
-
-
-
-
-
 ## 📜 License
 
 This software is licensed under the [MIT](https://github.com/Mukullight/orange?tab=MIT-1-ov-file) © [Mukul Namagiri](https://github.com/Mukullight).
