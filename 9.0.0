@@ -1,0 +1,11 @@
+Requirement already satisfied: Pillow in c:\users\mukul\.conda\envs\mis\lib\site-packages (10.4.0)
+Collecting Pillow
+  Using cached pillow-11.0.0-cp39-cp39-win_amd64.whl.metadata (9.3 kB)
+Downloading pillow-11.0.0-cp39-cp39-win_amd64.whl (2.6 MB)
+   ---------------------------------------- 2.6/2.6 MB 4.3 MB/s eta 0:00:00
+Installing collected packages: Pillow
+  Attempting uninstall: Pillow
+    Found existing installation: pillow 10.4.0
+    Uninstalling pillow-10.4.0:
+      Successfully uninstalled pillow-10.4.0
+Successfully installed Pillow-11.0.0
